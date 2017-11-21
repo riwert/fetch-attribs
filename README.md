@@ -1,2 +1,5 @@
 # fetch-attribs
-Fetch all attribuites valutes from all tags on site
+Fetch all given attributes valutes from all given tags on website
+
+## Usage
+php fetch-attribs.php <url> <tag> <attribuite>
